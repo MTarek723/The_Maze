@@ -64,7 +64,6 @@ https://www.seekpng.com/idown/u2w7u2t4i1y3a9y3_call-of-duty-guns-firearms-gun-we
 ## Contributing
 
 - Read the source files in ```src``` folder and the header files in ```inc``` folder.
-- Clone the repo and make a new branch: $ git checkout https://github.com/candiepih/The-Maze -b [name_of_new_branch].
 - Add a feature, fix a bug, or refactor some code :)
 - Write/update tests for the changes you made, if necessary.
 - Update README.md if necessary.
