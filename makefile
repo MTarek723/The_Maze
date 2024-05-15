@@ -16,7 +16,7 @@ LIBRARY_PATHS = -LSDL2\lib
 COMPILER_FLAGS = -Wall -Werror -Wextra -pedantic
 
 #LINKER_FLAGS specifies the libraries we're linking against
-LINKER_FLAGS = -lmingw32 -lSDL2main -lSDL2
+LINKER_FLAGS = -lm -lSDL2main -lSDL2
 LINUX_LINKER_FLAGS = -lSDL2
 
 #OBJ_NAME specifies the name of our exectuable
