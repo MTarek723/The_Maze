@@ -55,12 +55,6 @@ where ```MAP``` is the name of the file found in the maps folder. You can create
 ```N``` - Turn on map visibility. The 2D map will be visible again if it wasn't
 
 
-## Texture sources
-
-**Weapon**
-
-https://www.seekpng.com/idown/u2w7u2t4i1y3a9y3_call-of-duty-guns-firearms-gun-weapons-coat/
-
 ## Contributing
 
 - Read the source files in ```src``` folder and the header files in ```inc``` folder.
